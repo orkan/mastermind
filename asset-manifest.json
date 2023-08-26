@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4fb3e371.css",
-    "main.js": "/static/js/main.d9600dea.js",
-    "static/media/logo_react.svg": "/static/media/logo_react.6d4dd5dfc6163bdfcfe520bd6bef1a6a.svg",
-    "static/media/logo_bootstrap.svg": "/static/media/logo_bootstrap.3a162f65200426203695ee878e6b62fb.svg",
-    "static/media/logo_vite.svg": "/static/media/logo_vite.86cd94ee28a26d6789506af66921f564.svg",
-    "index.html": "/index.html",
-    "static/media/logo_webpack.svg": "/static/media/logo_webpack.2fc03064546036cd861df820be70b3ba.svg"
+    "main.css": "./static/css/main.4fb3e371.css",
+    "main.js": "./static/js/main.dd8b1efb.js",
+    "static/media/logo_react.svg": "./static/media/logo_react.6d4dd5dfc6163bdfcfe520bd6bef1a6a.svg",
+    "static/media/logo_bootstrap.svg": "./static/media/logo_bootstrap.3a162f65200426203695ee878e6b62fb.svg",
+    "static/media/logo_vite.svg": "./static/media/logo_vite.86cd94ee28a26d6789506af66921f564.svg",
+    "index.html": "./index.html",
+    "static/media/logo_webpack.svg": "./static/media/logo_webpack.2fc03064546036cd861df820be70b3ba.svg"
   },
   "entrypoints": [
     "static/css/main.4fb3e371.css",
-    "static/js/main.d9600dea.js"
+    "static/js/main.dd8b1efb.js"
   ]
 }
