@@ -7,7 +7,7 @@
 /**
  * @license Mastermind
  * Copyright (c) Orkan <orkans+mastermind@gmail.com>
- * 
+ *
  * This project is licensed under the terms of the MIT license.
  * https://github.com/orkan/mastermind
  */
