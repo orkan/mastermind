@@ -1,4 +1,4 @@
-# Mastermind `v0.2.0`
+# Mastermind `v0.2.1`
 
 A mastermind game.
 
@@ -12,4 +12,4 @@ MIT
 
 ### Updated
 
-Wed, 20 Sep 2023 17:55:33 +02:00
+Thu, 21 Sep 2023 02:08:34 +02:00
